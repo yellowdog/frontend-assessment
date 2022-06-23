@@ -1,3 +1,8 @@
+## Assessment
+
+Please see the included PDF for the assessment instructions.
+
+
 ## Application Requirements
 
 This application was built to support frontend engineers developing recruitment assessments with the following requirements:
