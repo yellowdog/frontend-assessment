@@ -1,4 +1,4 @@
-## Requirements
+## Application Requirements
 
 This application was built to support frontend engineers developing recruitment assessments with the following requirements:
 
