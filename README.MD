@@ -1,6 +1,6 @@
 ## Assessment
 
-Please see the included PDF for the assessment instructions.
+Please see YellowDog Frontend Engineer Candidate Assessment.pdf for the assessment instructions.
 
 
 ## Application Requirements
