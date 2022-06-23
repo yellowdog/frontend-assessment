@@ -1,8 +1,8 @@
 ## Requirements
 
-This application was built to fulfill the following requirements:
+This application was built to support frontend engineers developing recruitment assessments with the following requirements:
 
-Create a simple API that allows a user to manage contact information.
+A simple API that allows a user to manage contact information.
 
 A user must be able to:
 * Create new contacts
