@@ -7,7 +7,7 @@ services:
     hostname: mongodb
     ports: ["27017:27017"]
   contacts:
-    image: yellowdogco/contacts-frontend-assessment:1.0.0-SNAPSHOT
+    image: yellowdogco/contacts-frontend-assessment:2.0.0
     depends_on:
       - mongodb
     container_name: contacts-frontend-assessment
