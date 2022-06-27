@@ -1,8 +1,13 @@
-## Requirements
+## Assessment
 
-This application was built to fulfill the following requirements:
+Please see YellowDog Frontend Engineer Candidate Assessment.pdf for the assessment instructions.
 
-Create a simple API that allows a user to manage contact information.
+
+## Application Requirements
+
+This application was built to support frontend engineers developing recruitment assessments with the following requirements:
+
+A simple API that allows a user to manage contact information.
 
 A user must be able to:
 * Create new contacts
